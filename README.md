@@ -22,7 +22,7 @@ The dataset contains 5,434 records with 21 features related to COVID-19 symptoms
 
 **Target Variable:**
 - COVID-19 (Yes/No)
-
+You can download the data directly from the project folder
 
 
 #  Libraries Used 🛠️
@@ -46,6 +46,6 @@ The dataset contains 5,434 records with 21 features related to COVID-19 symptoms
   This project is for educational purposes as part of a Master's lab assignment.
 
 # Contact ✉️
- • **Email:** wissambadia4@gmail.com
- • **LinkedIn:** [Badia Ouissam Lakas](linkedin.com/in/badia-ouissam-lakas-a66a28214)  
+- **Email:** wissambadia4@gmail.com
+- **LinkedIn:** [Badia Ouissam Lakas](linkedin.com/in/badia-ouissam-lakas-a66a28214)  
 
